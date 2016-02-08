@@ -11,6 +11,10 @@ community edition.
 
 * [simple-get](https://github.com/feross/simple-get): Simplest way to make http get requests
 
+### Testing
+
+* [tap](https://github.com/tapjs/node-tap): Test Anything Protocol tools for node
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
