@@ -11,6 +11,10 @@ community edition.
 
 * [simple-get-promise](https://github.com/piuccio/simple-get-promise): Simple modern way to make http requests
 
+### Server
+
+* [verdaccio](https://github.com/verdaccio/verdaccio): Private npm repository server
+
 ### Testing
 
 * [tap](https://github.com/tapjs/node-tap): Test Anything Protocol tools for node
