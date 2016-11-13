@@ -9,7 +9,7 @@ community edition.
 
 ### HTTP
 
-* [simple-get](https://github.com/feross/simple-get): Simplest way to make http get requests
+* [simple-get-promise](https://github.com/piuccio/simple-get-promise): Simple modern way to make http requests
 
 ### Testing
 
