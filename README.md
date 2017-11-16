@@ -7,6 +7,10 @@ community edition.
 
 ## Packages
 
+### Convenience
+
+* [dlv](https://github.com/developit/dlv): Safe deep property access in 128 bytes. `x = dlv(obj, 'a.b.x')`
+
 ### HTTP
 
 * [simple-get-promise](https://github.com/piuccio/simple-get-promise): Simple modern way to make http requests
